@@ -22,7 +22,7 @@
             <version>9.2.2</version>
         </dependency>
 
-        <!-- Selenium Java & API -->
+        <!-- Selenium Java & API Compatible Versions -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
